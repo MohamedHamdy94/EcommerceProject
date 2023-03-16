@@ -1,0 +1,272 @@
+[
+  {
+    "_id": 1,
+    "name": "Apple MacBook Pro 2020",
+    "slug": " Apple-MacBook-Pro-2020",
+    "image": "./images/lp6.jpg",
+    "brand": "laptop",
+    "category": "laptop",
+    "description": "Apple MacBook Pro 2020 Model (13-Inch, Apple M1 chip with 8-core CPU and 8-core GPU, 8GB, 512GB, Touch Bar and Touch ID, MYD92 ), Eng-KB, Space Gray",
+    "price": 25000,
+    "countInStock": 7,
+    "rating": 5,
+    "numReviews": 87
+  },
+  {
+    "_id": 2,
+    "name": "laptop dell G15 ",
+    "slug": "laptop-dell-1",
+    "image": "./images/lp5.jpg",
+    "brand": "laptop",
+    "category": "laptop",
+    "description": "Dell G15 15-5510 Gaming laptop - Intel Core i5-10500H 6Cores, 8GB RAM, 512GB SSD, Nvidia Geforce GTX1650 4GB GDDR6 Graphics, 15.6\" FHD IPS 120Hz, Backlit Keyboard, UBUNTU - Shadow Grey",
+    "price": 3100,
+    "countInStock": 10,
+    "rating": 4.5,
+    "numReviews": 12
+  },
+  {
+    "_id": 3,
+    "name": "Roll over 5G",
+    "slug": "Roll-over",
+    "image": "./images/h5.jpg",
+    "brand": "Earbuds",
+    "category": "Earbuds",
+    "description": "Roll over 5G image to zoom inBluetooth 5.2 Wireless Earbuds,Kurdene S8 Deep Bass Sound 38H Playtime Call Clear IPX8 Waterproof Earphones with Microphone in-Ear Stereo Headphones Comfortable for iPhone Android Sports",
+    "price": 125,
+    "countInStock": 2,
+    "rating": 5,
+    "numReviews": 23
+  },
+  {
+    "_id": 4,
+    "name": "Unlocked Cell Phones",
+    "slug": "Unlocked-Cell-Phones",
+    "image": "./images/m4.jpg",
+    "brand": "Mobail",
+    "category": "Mobail",
+    "description": "Unlocked Cell Phones, Ulefone Note 12P (2022 New) 6.82\" HD+ Unlocked Smartphone, 7700mAh Battery, Octa-core 4GB+64GB, Android 11, 13MP Triple Rear Camera Triple Card Slots, Dual 4G Mobile Phone -Black",
+    "price": 120,
+    "countInStock": 3,
+    "rating": 5,
+    "numReviews": 34
+  },
+  {
+    "_id": 5,
+    "name": "laptop dell",
+    "slug": "laptop-dell-11",
+    "category": "laptop",
+    "image": "./images/lp3.jpg",
+    "price": 3100,
+    "countInStock": 10,
+    "brand": "laptop",
+    "rating": 4.5,
+    "numReviews": 12,
+    "description": " Dell G15 15-5510 Gaming laptop - Intel Core i5-10500H 6Cores, 8GB RAM, 512GB SSD, Nvidia Geforce GTX1650 4GB GDDR6 Graphics, 15.6 FHD IPS 120Hz, Backlit Keyboard, UBUNTU - Shadow Grey',"
+  },
+  {
+    "_id": 6,
+    "name": "Apple MacBook ",
+    "slug": " Apple-MacBook-1",
+    "image": "./images/lp4.jpg",
+    "brand": "laptop",
+    "category": "laptop",
+    "description": "Apple MacBook  Model (13-Inch, Apple M1 chip with 8-core CPU and 8-core GPU, 8GB, 512GB, Touch Bar and Touch ID, MYD92 ), Eng-KB, Space Gray",
+    "price": 15000,
+    "countInStock": 7,
+    "rating": 5,
+    "numReviews": 87
+  },
+
+  {
+    "_id": 7,
+    "name": "Monster Mission",
+    "slug": "Monster-Mission",
+    "image": "./images/h3.jpg",
+    "brand": "Earbuds",
+    "category": "Earbuds",
+    "description": "Monster Mission V1 Wireless Earbuds, Bluetooth 5.0 Built-in Mic Noise Cancelling Gaming Earbuds, Cool Light Effects with Music & Game Modes, 48ms Ultra Low-Latency Gaming Earphones (Black)",
+    "price": 50,
+    "countInStock": 5,
+    "rating": 3.5,
+    "numReviews": 51
+  },
+
+  {
+    "_id": 8,
+    "name": "Bluetooth 5.2 Wireless",
+    "slug": "Bluetooth-5.2-Wireless",
+    "image": "./images/h4.jpg",
+    "brand": "Earbuds",
+    "category": "Earbuds",
+    "description": "Bluetooth 5.2 Wireless Earbuds,Kurdene S8 Deep Bass Sound 38H Playtime Call Clear IPX8 Waterproof Earphones with Microphone in-Ear Stereo Headphones Comfortable for iPhone Android Sports",
+    "price": 100,
+    "countInStock": 1,
+    "rating": 3,
+    "numReviews": 32
+  },
+
+  {
+    "_id": 9,
+    "name": "Roll over",
+    "slug": "Roll-over",
+    "image": "./images/h2.jpg",
+    "brand": "Earbuds",
+    "category": "Earbuds",
+    "description": "Roll over image to zoom inBluetooth 5.2 Wireless Earbuds,Kurdene S8 Deep Bass Sound 38H Playtime Call Clear IPX8 Waterproof Earphones with Microphone in-Ear Stereo Headphones Comfortable for iPhone Android Sports",
+    "price": 75,
+    "countInStock": 2,
+    "rating": 5,
+    "numReviews": 23
+  },
+
+  {
+    "_id": 10,
+    "name": "SAMSUNG Galaxy Z",
+    "slug": "SAMSUNG-Galaxy-Z",
+    "image": "./images/m2.jpg",
+    "brand": "Mobail",
+    "category": "Mobail",
+    "description": "SAMSUNG Galaxy Z Flip 3 5G Factory Unlocked Android Cell Phone US Version Smartphone Flex Mode Intuitive Camera Compact 128GB Storage US Warranty, Phantom Black",
+    "price": 520,
+    "countInStock": 8,
+    "rating": 3.5,
+    "numReviews": 14
+  },
+  {
+    "_id": 11,
+    "name": "SAMSUNG Galaxy A23",
+    "slug": "SAMSUNG-Galaxy-A23",
+    "image": "./images/m5.jpg",
+    "brand": "Mobail",
+    "category": "Mobail",
+    "description": "SAMSUNG Galaxy A23 Flip 3 5G Factory Unlocked Android Cell Phone US Version Smartphone Flex Mode Intuitive Camera Compact 128GB Storage US Warranty, Phantom Black",
+    "price": 1420,
+    "countInStock": 8,
+    "rating": 4.5,
+    "numReviews": 14
+  },
+  {
+    "_id": 12,
+    "name": "laptop Lenovo",
+    "slug": "laptop-Lenovo-1",
+    "image": "./images/lp5.jpg",
+    "brand": "laptop",
+    "category": "laptop",
+    "description": "Lenovo Legion 5-15ARH05H Gaming laptop - Ryzen 7 4800H 8-Cores, 16GB RAM, 1TB HDD + 512GB SSD, NVIDIA GeForce RTX 2060 6GB GDDR6 Graphics, 15.6\" FHD IPS 144Hz, Windows 10 - Phantom -Black",
+    "price": 5120,
+    "countInStock": 9,
+    "rating": 4.5,
+    "numReviews": 64
+  },
+
+  {
+    "_id": 13,
+    "name": "Smart Watches",
+    "slug": "Smart-Watches",
+    "image": "./images/w1.jpg",
+    "brand": "Watches",
+    "category": "Watches",
+    "description": "Smart Watches for Men Women, Activing Fitness Tracker with Heart Rate Blood Oxygen Monitoring 3ATM Waterproof",
+    "price": 500,
+    "countInStock": 8,
+    "rating": 3.5,
+    "numReviews": 12
+  },
+
+  {
+    "_id": 14,
+    "name": "Smart Watch",
+    "slug": "Smart-Watch-2",
+    "image": "./images/w4.jpg",
+    "brand": "Watches",
+    "category": "Watches",
+    "description": "Smart Watch for Men and Women,IP68 Waterproof Fitness Tracker with Heart Rate and Sleep Monitor, Blood Pressure Blood Oxygen Tracking Smartwatch Compatible with Android iPhone iOS Phones",
+    "price": 50,
+    "countInStock": 6,
+    "rating": 4,
+    "numReviews": 15
+  },
+
+  {
+    "_id": 15,
+    "name": "AIHOOR Wireless",
+    "slug": "AIHOOR-Wireless",
+    "image": "./images/h.jpg",
+    "brand": "Earbuds",
+    "category": "Earbuds",
+    "description": "AIHOOR Wireless Earbuds for iOS & Android Phones, Bluetooth 5.0 in-Ear Headphones with Extra Bass, Built-in Mic, Touch Control, USB Charging Case, 30hr Battery Earphones, Waterproof for Sport (Black)      ",
+    "price": 20,
+    "countInStock": 7,
+    "rating": 4.5,
+    "numReviews": 16
+  },
+
+  {
+    "_id": 16,
+    "name": "SAMSUNG Galaxy S20",
+    "slug": "SAMSUNG-Galaxy-S20",
+    "image": "./images/m1.jpg",
+    "brand": "Mobail",
+    "category": "Mobail",
+    "description": "SAMSUNG Galaxy S20 FE 5G Factory Unlocked Android Cell Phone 128GB US Version Smartphone Pro-Grade Camera 30X Space Zoom Night Mode, Cloud Navy",
+    "price": 1120,
+    "countInStock": 6,
+    "rating": 4,
+    "numReviews": 12
+  },
+
+  {
+    "_id": 17,
+    "name": "Blackview Smart Watch",
+    "slug": "Blackview-Smart-Watch",
+    "image": "./images/w3.jpg",
+    "brand": "Watches",
+    "category": "Watches",
+    "description": "Blackview Smart Watch for Android Phones and iOS Phones, All-Day Activity Tracker with Heart Rate Sleep Monitor, 1.3\" Full Touch Screen, 5ATM Waterproof Pedometer, Smartwatch for Men Women",
+    "price": 140,
+    "countInStock": 9,
+    "rating": 3,
+    "numReviews": 41
+  },
+  {
+    "_id": 18,
+    "name": "Smart Watches AS7",
+    "slug": "Smart-Watches-AS7",
+    "image": "./images/w5.jpg",
+    "brand": "Watches",
+    "category": "Watches",
+    "description": "Smart Watches AS7 for Men Women, Activing Fitness Tracker with Heart Rate Blood Oxygen Monitoring 3ATM Waterproof",
+    "price": 700,
+    "countInStock": 8,
+    "rating": 3.5,
+    "numReviews": 12
+  },
+  {
+    "_id": 19,
+    "name": "Fossil Mens Gen 6",
+    "slug": "Fossil-Mens-Gen-6",
+    "image": "./images/w2.jpg",
+    "brand": "Watches",
+    "category": "Watches",
+    "description": "Fossil Mens Gen 6 44mm Touchscreen Smartwatch with Alexa Built-In, Heart Rate, Blood Oxygen, GPS, Contactless Payments, Speaker and Smartphone Notifications",
+    "price": 220,
+    "countInStock": 4,
+    "rating": 4.5,
+    "numReviews": 21
+  },
+
+  {
+    "_id": 20,
+    "name": "Latest Android 11",
+    "slug": "Latest-Android-11",
+    "image": "./images/m3.jpg",
+    "brand": "Mobail",
+    "category": "Mobail",
+    "description": "Latest Android 11 Phone, Ulefone Note 6 Unlocked Smartphone, 6.1” HD+ Full Screen, Quad-core 1GB+32GB Mobile Phone, 3300mAh Battery, Face Unlock, AI Camera 5MP+2MP Cell Phones- Purple",
+    "price": 2120,
+    "countInStock": 0,
+    "rating": 4.5,
+    "numReviews": 23
+  }
+]

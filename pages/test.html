@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+//         var x=new Date(2000,6,10)
+//         var y=new Date(2020,5,19)
+
+//         console.log(x.getFullYear());
+//         console.log(y.getFullYear())
+//         console.log("----------------------------");
+
+//         x=y;
+//         console.log(x.getFullYear());
+//         console.log(y.getFullYear())
+//         console.log("----------------------------");
+// x.setFullYear(2222)
+// console.log(x.getFullYear());
+//         console.log(y.getFullYear())
+//         var x=2000
+//         var y=2020
+
+//         console.log(x);
+//         console.log(y)
+//         console.log("----------------------------");
+
+//         x=y;
+//         console.log(x);
+//         console.log(y)
+//         console.log("----------------------------");
+// var x=3333333333333
+// console.log(x);
+//         console.log(y)
+// class emp{
+//     constructor (nam,ag){
+//     this.name=nam?nam:"nnnn";
+//    this.age=ag?ag:111;}
+//     #adr="asut";
+//     inf(){
+//         console.log("my name  "+this.name +" my age "+this.age)
+//         };
+// }
+//  var e1=new emp("mimmmmo",27);
+
+//  console.log(e1.adr)
+ 
+//  e1.inf()
+//  console.log(e1.inf())
+
+const _nam=new WeakMap();
+const _age=new WeakMap();
+
+class emp{
+    // constructor (nam,age){
+    //     _nam.set(this,'dfgdfgfh'+nam);
+    //     _age.set(this,()=>{
+    //     console.log("his age"+age)
+    //});
+    // this.name=nam;
+    // this.age=ag;
+    // this.set=(n,a)=>{
+    // name=n;
+    // age=a;
+    // }
+//  this.mimo =()=>{
+//      console.log("ana mimmo")
+//  }
+//};
+get getNam(){
+    console.log(_nam.get(this))
+};
+// get getAg(){
+//     console.log(_age.get(this))
+// };
+set sn(val){
+    _nam.set(this,val);
+
+}
+    // inf(){
+    //     console.log("my name  "+this.name +" my age "+this.age)
+    //     };
+};
+const my=new emp()
+my.sn="mimoo"
+my.getNam
+
+my.getAg
+
+// class ne extends emp {
+// constructor(nam,ag,email) {
+//     super(nam,ag);
+//     this.email=email;
+
+//     // super.mimo()
+//     this.mimo=()=>{
+//         // super.mimo() ;
+//         console.log("mmmmmmmmmmmmmmm");
+//     }
+// };
+
+// inf(){
+//     super.inf()
+//     console.log("mimmimmimii")
+// }
+// }
+// const e = new ne ('mi',27,"nmdbjddkjax");
+// e.set("mimmo",22)
+// console.log(e.mimo())
+// e.inf()
+// const car = new WeakMap();
+
+// let ob ={'m':'n'}
+// car.set(ob,'mmmmm');
+
+// console.log(car)
+// console.log(car.get(ob))
+    </script>
+</body>
+</html>
